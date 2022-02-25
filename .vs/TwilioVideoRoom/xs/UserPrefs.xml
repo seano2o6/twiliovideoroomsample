@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{DFD08607-12D5-462C-89F7-BC1D5AF2E1DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.TwilioVideoRoom.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwilioVideoRoom/MainPage.xaml">
+    <Files>
+      <File FileName="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" Line="35" Column="37" />
+      <File FileName="TwilioVideoRoom/Services/PermissionService.cs" Line="8" Column="9" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1392" Column="3" />
+      <File FileName="TwilioVideoRoom/MainPage.xaml.cs" Line="12" Column="40" />
+      <File FileName="TwilioVideoRoom/MainPage.xaml" Line="11" Column="1" />
+      <File FileName="TwilioVideoRoom/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="TwilioVideoRoom.Android/Properties/AndroidManifest.xml" />
+      <File FileName="TwilioVideoRoom.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TwilioVideoRoom" expanded="True">
+            <Node name="AudioSwitch" expanded="True" />
+            <Node name="TwilioVideoRoom" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="TwilioVideoRoom.Android" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" relfile="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" line="37" column="1" />
+      <Breakpoint file="/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" relfile="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" line="44" column="1" />
+      <Breakpoint file="/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" relfile="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" line="59" column="1" />
+      <Breakpoint file="/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" relfile="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" line="148" column="1" />
+      <Breakpoint file="/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" relfile="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" line="77" column="1" />
+      <Breakpoint file="/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" relfile="TwilioVideoRoom/ViewModels/VideoChatViewModel.cs" line="123" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TwilioVideoRoom.Android PreferredExecutionTarget="Android.R52N9045Z0R" />
+</Properties>

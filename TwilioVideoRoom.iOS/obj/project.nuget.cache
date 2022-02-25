@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GFqHuQl4vpQ+/0QUGA/uWN137D15HxDTr7d0iVqj4LZ1/ri98wk7ggMC1lfohEPOq9/cTxFkffTyDDzlHe8cg==",
+  "success": true,
+  "projectFilePath": "/Users/seandavies/Projects/TwilioVideoRoom/TwilioVideoRoom.iOS/TwilioVideoRoom.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/seandavies/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.3.0/microsoft.identitymodel.jsonwebtokens.5.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/microsoft.identitymodel.logging/5.3.0/microsoft.identitymodel.logging.5.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/microsoft.identitymodel.tokens/5.3.0/microsoft.identitymodel.tokens.5.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.collections.specialized/4.3.0/system.collections.specialized.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.diagnostics.tools/4.3.0/system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.identitymodel.tokens.jwt/5.3.0/system.identitymodel.tokens.jwt.5.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.io.filesystem/4.3.0/system.io.filesystem.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.runtime.interopservices/4.3.0/system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.runtime.interopservices.runtimeinformation/4.3.0/system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.runtime.serialization.xml/4.3.0/system.runtime.serialization.xml.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.security.claims/4.3.0/system.security.claims.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.security.cryptography.algorithms/4.3.0/system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.security.cryptography.x509certificates/4.3.0/system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.text.regularexpressions/4.3.0/system.text.regularexpressions.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/twilio/5.72.0/twilio.5.72.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/twilio.video.xamarinbinding/5.0.0/twilio.video.xamarinbinding.5.0.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/unity/5.11.10/unity.5.11.10.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/twilio.video.xamarin/0.1.5/twilio.video.xamarin.0.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2337 to 5.0.0.2012. Reference the package directly from the project to select a different version. \n TwilioVideoRoom.iOS -> TwilioVideoRoom -> Xamarin.Forms (>= 5.0.0.2337) \n TwilioVideoRoom.iOS -> Xamarin.Forms (>= 5.0.0.2012)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
